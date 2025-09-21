@@ -91,7 +91,7 @@ Aplikasi web untuk klasifikasi fenologi (fase pertumbuhan) padi menggunakan data
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Happy-Syahrul-Ramadhan/BRIN-Fenologi-Padi.git
+git clone https://github.com/databy2019/fenology1.git
 cd BRIN-Fenologi-Padi
 ```
 
